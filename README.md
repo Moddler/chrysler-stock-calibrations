@@ -16,6 +16,10 @@ For every .bin there is a .txt holding information of the ECU / verhicle.
 
 Some information can be displayed by a DRB II or SnapOn MT 2500 (therefore it is saved in the calibration itself, but I don't know how to extract this information from the .bin)
 
+
+-- ! Beware, some EPROMS contain the VIN of the vehicle ! --
+
+
 Year:	e.g. 1994
 
 Engine:	e.g 3.3L SFI DIS / 3.3L MPI DIS / 2.5L TBI
