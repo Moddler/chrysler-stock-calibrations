@@ -12,7 +12,7 @@ An easier way is to use MPTune and a FTDI interface. The ECU can be bootstrapped
 A tutorial for this will come.
 
 The folders represent the P/N of the ECU. 
-For every .bin there is a .txt holding information of the ECU / verhicle.
+For every .bin there is a .txt holding information of the ECU / vehicle.
 
 Some information can be displayed by a DRB II or SnapOn MT 2500 (therefore it is saved in the calibration itself, but I don't know how to extract this information from the .bin)
 
