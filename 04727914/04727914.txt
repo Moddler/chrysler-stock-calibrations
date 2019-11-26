@@ -1,0 +1,12 @@
+Year:	1995
+Engine:	3.3L MPI DIS
+Emmissions:	BUX TRUCK MODULE
+Transmission:	AUTOMATIC TRANS.
+Module-Type:	SBEC-IIA
+P/N-Case:	04727914
+
+P/N-Readout:	04727914-B
+EPROM-Sticker:	A04727914
+AWD/FWD:	FWD
+EGR:	-
+
