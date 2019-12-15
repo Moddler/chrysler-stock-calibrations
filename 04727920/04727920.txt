@@ -1,0 +1,11 @@
+Year:	1995
+Engine:	3.8L MPI DIS
+Emmissions:	50 STATE TRK MODULE
+Transmission:	AUTOMATIC TRANS.
+Module-Type:	SBEC-IIA
+P/N-Readout:	04727920-B
+
+P/N-Case:	04727920
+EPROM-Sticker:	B04727920
+AWD/FWD:	FWD
+EGR:	yes
