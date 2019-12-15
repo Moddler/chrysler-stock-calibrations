@@ -1,0 +1,11 @@
+Year:	1993
+Engine:	3.3L SFI DIS
+Emmissions:	BUX TRUCK MODULE
+Transmission:	AUTOMATIC TRANS.
+Module-Type:	SBEC-IIA
+P/N-Case:	04686277
+P/N-Readout:	04686277-A
+
+EPROM-Sticker:	B4686277
+AWD/FWD:	AWD
+EGR:	yes
