@@ -9,3 +9,16 @@ P/N-Readout:	04686603-A
 EPROM-Sticker:	B4686603
 AWD/FWD:	FWD
 EGR:	yes
+
+Year:	1994
+Engine:	2.5L TBI
+Emmissions:	BUX TRUCK MODULE
+Transmission:	MANUAL TRANS.
+Module-Type:  SBEC-IIB
+P/N-Readout: 04686603-A
+
+P/N-Case:	04686603
+EPROM-Sticker:	B4686603
+SBEC-PCB Rev: -no Rev printed on PCB-
+AWD/FWD:	FWD
+EGR:	yes
