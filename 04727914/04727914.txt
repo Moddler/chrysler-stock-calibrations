@@ -3,10 +3,11 @@ Engine:	3.3L MPI DIS
 Emmissions:	BUX TRUCK MODULE
 Transmission:	AUTOMATIC TRANS.
 Module-Type:	SBEC-IIA
+P/N-Readout:	0472914-7 (DRBII)
+P/N-Readout:	04727914-B (MT2500)
+
 P/N-Case:	04727914
-
-P/N-Readout:	04727914-B
 EPROM-Sticker:	A04727914
-AWD/FWD:	FWD
-EGR:	-
-
+SBEC-PCB Rev: K
+AWD/FWD:	-unknown-
+EGR:	-unknown-
