@@ -2,10 +2,11 @@ Year:	1994
 Engine:	3.3L SFI DIS
 Emmissions:	BUX TRUCK MODULE
 Transmission:	AUTOMATIC TRANS.
-Module:	SBEC-IIB
-P/N-Case: 04686541
+Module-Type:  SBEC-IIB
+P/N-Readout: 04686541-A
 
-P/N-Readout:	04686541-A
+P/N-Case:	04686541
 EPROM-Sticker:	A4686541
+SBEC-PCB Rev: K
 AWD/FWD:	FWD
 EGR:	yes
