@@ -3,9 +3,11 @@ Engine:	3.3L MPI DIS
 Emmissions:	50 STATE TRK MODULE
 Transmission:	AUTOMATIC TRANS.
 Module-Type:	SBEC-IIA
-P/N-Case:	04727916
+P/N-Readout:	0472916-7 (DRBII)
+P/N-Readout:	04727916-B (MT2500)
 
-P/N-Readout:	04727916-B
+P/N-Case:	04727916
 EPROM-Sticker:	A04727916
-AWD/FWD:	FWD
-EGR:	-
+SBEC-PCB Rev: K
+AWD/FWD:	-unknown-
+EGR:	-unknown-
