@@ -18,8 +18,10 @@ For every .bin there is a .txt holding information of the ECU / vehicle.
 
 Some information can be displayed by a DRB II or SnapOn MT 2500 (therefore it is saved in the calibration itself, but I don't know how to extract this information from the .bin)
 
-
 -- ! Beware, some EPROMS contain the VIN of the vehicle ! --
+
+
+info-scheme for the .txt:
 
 <Information from a DRBII/MT2500 via Module Info>
   
