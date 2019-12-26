@@ -23,17 +23,29 @@ Some information can be displayed by a DRB II or SnapOn MT 2500 (therefore it is
 
 <code>
 <Information from a DRBII/MT2500 via Module Info>
+  
 Year:	e.g. 1994
+
 Engine:	e.g 3.3L SFI DIS / 3.3L MPI DIS / 2.5L TBI
+
 Emmissions:	e.g. BUX TRUCK MODULE / 50 STATE TRK MODULE
+
 Transmission:	AUTOMATIC TRANS. / MANUAL TRANS.
+
 Module-Type:  SBEC-IIB / SBEC-IIA
+
 P/N-Readout: 04686541-A (DRBII sometimes shows a wrong value, note this separately)
 
+
 <physical Information of the vehicle>
+  
 P/N-Case:	e.g. 04686541 (P/N on the sticker on the ECU)
+  
 EPROM-Sticker:	e.g. A4686541 (sticker on the EPROM of the ECU)
+  
 SBEC-PCB Rev: e.g. E / K
+  
 AWD/FWD:	AWD / FWD (might also be derived from the VIN in the ECU, otherwise count the driveshafts)
+  
 EGR:	yes / no (might be relevant)
   </code>
