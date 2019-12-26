@@ -21,7 +21,7 @@ Some information can be displayed by a DRB II or SnapOn MT 2500 (therefore it is
 
 -- ! Beware, some EPROMS contain the VIN of the vehicle ! --
 
-
+<code>
 <Information from a DRBII/MT2500 via Module Info>
 Year:	e.g. 1994
 Engine:	e.g 3.3L SFI DIS / 3.3L MPI DIS / 2.5L TBI
@@ -36,3 +36,4 @@ EPROM-Sticker:	e.g. A4686541 (sticker on the EPROM of the ECU)
 SBEC-PCB Rev: e.g. E / K
 AWD/FWD:	AWD / FWD (might also be derived from the VIN in the ECU, otherwise count the driveshafts)
 EGR:	yes / no (might be relevant)
+  </code>
