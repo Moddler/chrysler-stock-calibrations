@@ -7,6 +7,6 @@ P/N-Readout: 04686277-A
 
 P/N-Case:	04686277
 EPROM-Sticker:	B4686277
-SBEC-PCB Rev: K
+SBEC-PCB Rev: E
 AWD/FWD:	AWD
 EGR:	yes
