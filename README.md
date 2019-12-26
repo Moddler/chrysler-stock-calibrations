@@ -23,7 +23,7 @@ Some information can be displayed by a DRB II or SnapOn MT 2500 (therefore it is
 
 info-scheme for the .txt:
 
-<Information from a DRBII/MT2500 via Module Info>
+-information from a DRBII/MT2500 via Module Info-
   
 Year:	e.g. 1994
 
@@ -38,7 +38,7 @@ Module-Type:  SBEC-IIB / SBEC-IIA
 P/N-Readout: 04686541-A (DRBII sometimes shows a wrong value, note this separately)
 
 
-<physical Information of the vehicle>
+-physical Information of the vehicle-
   
 P/N-Case:	e.g. 04686541 (P/N on the sticker on the ECU)
   
