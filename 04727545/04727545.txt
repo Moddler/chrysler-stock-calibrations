@@ -1,10 +1,10 @@
 
-Year:	199
-Engine:
-Emmissions:	
+Year:	1994
+Engine: 3.3L SFI DIS
+Emmissions:	50 STATE TRK MODULE
 Transmission:	AUTOMATIC TRANS.
-Module-Type:
-P/N-Readout:
+Module-Type: SBEC-IIB
+P/N-Readout: 04727545-A
 
 P/N-Case: 04727545 / 04686493
 EPROM-Sticker: A4727442
