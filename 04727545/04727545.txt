@@ -1,0 +1,13 @@
+
+Year:	199
+Engine:
+Emmissions:	
+Transmission:	AUTOMATIC TRANS.
+Module-Type:
+P/N-Readout:
+
+P/N-Case: 04727545
+EPROM-Sticker:
+SBEC-PCB Rev: 
+AWD/FWD:	FWD
+EGR:	yes
