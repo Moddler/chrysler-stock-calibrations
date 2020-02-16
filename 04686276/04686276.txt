@@ -1,1 +1,12 @@
+Year:	1993
+Engine:	3.3L SFI DIS
+Emmissions:	FED TRUCK MODULE
+Transmission:	AUTOMATIC TRANS.
+Module-Type:	SBEC-IIA
+P/N-Readout:	04686276-A
 
+P/N-Case:	04686276
+EPROM-Sticker:	A4686276
+SBEC-PCB Rev: E
+AWD/FWD: AWD
+EGR:	yes
