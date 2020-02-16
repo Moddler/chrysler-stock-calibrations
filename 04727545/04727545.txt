@@ -6,8 +6,10 @@ Transmission:	AUTOMATIC TRANS.
 Module-Type:
 P/N-Readout:
 
-P/N-Case: 04727545
-EPROM-Sticker:
+P/N-Case: 04727545 / 04686493
+EPROM-Sticker: A4727442
 SBEC-PCB Rev: 
 AWD/FWD:	FWD
 EGR:	yes
+
+Has this specific ECU been reflashed? P/N Stickers and EPROM sticker do not match.
